@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="credits_value">
+        Credits\n\n\n
+        Muffin Labs\n\n
+        Kiculator\n
+        v 1.0.0\n\n\n\n
+        Seunggi Lee (SunnyG) (Developer)\n\n
+        contact\n
+        email) avocado34.131@gmail.com\n
+    </string>
+
+    <string name="llama_icon_value">
+        Llama Icon\n\n
+        by FreePik from Flaticon\n
+        https://www.flaticon.com/authors/freepik\n\n\n
+    </string>
+</resources>

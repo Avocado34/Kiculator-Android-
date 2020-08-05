@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FAFAFA</color>
+    <color name="colorPrimaryDark">#FAFAFA</color>
+    <color name="colorAccent">#87CC45</color>
+
+    <color name="basicBackgroundColor">#FAFAFA</color>
+    <color name="basicTextColor">#323232</color>
+    <color name="basicButtonBackgroundColor">#87CC45</color>
+    <color name="basicButtonClickedBackgroundColor">#6A9F37</color>
+    <color name="basicEdittextBackgroundColor">#F1F1F1</color>
+    <color name="basicEdittextHintTextColor">#B4B3B7</color>
+
+    <color name="floatingButtonBackgroundColor">#FAFAFA</color>
+    <color name="floatingButtonClickedBackgroundColor">#E4E4E4</color>
+
+    <color name="menuIconColor">#858585</color>
+</resources>
